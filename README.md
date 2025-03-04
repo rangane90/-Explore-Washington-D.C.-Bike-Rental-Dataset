@@ -36,7 +36,7 @@ Ensure you have the following installed:
 ### Running the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rangane90/-Explore-Washington-D.C.-Bike-Rental-Dataset.git
+   git clone https://github.com/rangane90/Explore-Washington-D.C.-Bike-Rental-Dataset.git
    ```
 2. Navigate to the project directory:
    ```bash
