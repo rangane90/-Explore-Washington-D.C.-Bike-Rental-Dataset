@@ -16,7 +16,6 @@ The primary goals of this project are:
 1. **Exploratory Data Analysis (EDA):** Identify trends, seasonal patterns, and correlations in the data.
 2. **Data Preprocessing:** Handle missing values, outliers, and transform variables if necessary.
 3. **Visualization:** Use plots and graphs to present insights.
-4. **Predictive Modeling (if applicable):** Develop machine learning models to predict bike rental demand.
 
 ## Technologies Used
 - **Python**: Data manipulation and analysis
@@ -51,7 +50,6 @@ Ensure you have the following installed:
 ## Results & Insights
 - Seasonal trends affecting bike rentals
 - Impact of weather and holidays on demand
-- Predictive analysis of rental counts (if applicable)
 
 ## Future Work
 - Improve the predictive model with advanced techniques.
@@ -59,7 +57,7 @@ Ensure you have the following installed:
 - Deploy a dashboard for interactive insights.
 
 ## Contributing
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
+Contributions are welcome! Please feel free to fix the repository and submit pull requests.
 
 ## License
 This project is licensed under the MIT License.
