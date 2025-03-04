@@ -37,7 +37,7 @@ Ensure you have the following installed:
 ### Running the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bike-rental-analysis.git
+   git clone https://github.com/rangane90/-Explore-Washington-D.C.-Bike-Rental-Dataset.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -63,9 +63,4 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## License
 This project is licensed under the MIT License.
-
-## Contact
-For any questions or collaborations, reach out at:
-📧 Email: your.email@example.com  
-🔗 GitHub: [yourusername](https://github.com/yourusername)
 
