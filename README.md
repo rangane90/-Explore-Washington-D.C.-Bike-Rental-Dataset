@@ -44,7 +44,7 @@ Ensure you have the following installed:
    ```
 3. Open Jupyter Notebook and run the analysis:
    ```bash
-   jupyter notebook assign2new.ipynb
+   jupyter notebook bikerentals.ipynb
    ```
 
 ## Results & Insights
